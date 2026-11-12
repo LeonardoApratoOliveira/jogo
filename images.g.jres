@@ -1,0 +1,18 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABwdwcAAAAAAHd3dwAAAA5wdXd+AADg4OB3V3cAAODucHd3d+7u7g5wd3d35+7uAHB3d3fn7u4AcF7ndwcA4O4Ad3d1AADg4AB3dwcAAADgAAB3BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "arvore"
+    },
+    "song1": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
